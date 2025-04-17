@@ -1,4 +1,4 @@
-<style>
+
 
     body{
     display: flex;
@@ -55,7 +55,7 @@ input[type="text"]{
     font-size: 16px;
     padding: 4px;
     box-sizing: border-box;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     
 }
 
@@ -83,4 +83,4 @@ button:last-child:hover {
 }
 
 
-</style>
+
