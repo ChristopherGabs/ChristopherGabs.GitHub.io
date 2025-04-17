@@ -69,7 +69,7 @@ button:active {
 
 button.zero {
   grid-column: span 2;
-  width: 100%;
+  width: 50%;
 }
 
 button:nth-child(4n),
